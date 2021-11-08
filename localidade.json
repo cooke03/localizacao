@@ -1,33 +1,33 @@
 [
   {
-    "key" : "SE",
-    "name" : "Sergipe",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "key" : "SEDE",
+    "name" : "Sede",
+    "latitude" : -15.8098,
+    "longitude" : -47.8448
   },
   {
-    "key" : "PA",
-    "name" : "Pará",
-    "latitude" : -1.4554,
-    "longitude" : -48.4898
+    "key" : "BA",
+    "name" : "Bahia",
+    "latitude" : -12.9505,
+    "longitude" : -38.4267
   },
   {
     "key" : "MG",
     "name" : "Minas Gerais",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
+    "latitude" : -19.9213,
+    "longitude" : -43.9590
   },
   {
-    "key" : "RR",
-    "name" : "Roraima",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
+    "key" : "PE",
+    "name" : "Pernambuco",
+    "latitude" : -8.0535,
+    "longitude" : -34.8767
   },
   {
-    "key" : "DF",
-    "name" : "Distrito Federal",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "key" : "SP",
+    "name" : "São Paulo",
+    "latitude" : -23.5714,
+    "longitude" : -46.6455
   },
   {
     "key" : "MS",
@@ -50,14 +50,14 @@
   {
     "key" : "SC",
     "name" : "Santa Catarina",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
+    "latitude" : -27.5879,
+    "longitude" : -48.5871
   },
   {
     "key" : "CE",
     "name" : "Ceará",
-    "latitude" : -3.71664,
-    "longitude" : -38.5423
+    "latitude" : -3.8045,
+    "longitude" : -38.5077
   },
   {
     "key" : "GO",
@@ -104,8 +104,8 @@
   {
     "key" : "RS",
     "name" : "Rio Grande do Sul",
-    "latitude" : -30.0318,
-    "longitude" : -51.2065
+    "latitude" : -30.0453,
+    "longitude" : -51.1991
   },
   {
     "key" : "RO",
@@ -114,7 +114,7 @@
     "longitude" : -63.8999
   },
   {
-    "key" : "PE",
+    "key" : "X2",
     "name" : "Pernambuco",
     "latitude" : -8.04666,
     "longitude" : -34.8771
@@ -128,11 +128,11 @@
   {
     "key" : "RJ",
     "name" : "Rio de Janeiro",
-    "latitude" : -22.9129,
-    "longitude" : -43.2003
+    "latitude" : -22.9097,
+    "longitude" : -43.1690
   },
   {
-    "key" : "BA",
+    "key" : "X1",
     "name" : "Bahia",
     "latitude" : -12.9718,
     "longitude" : -38.5011
@@ -140,11 +140,11 @@
   {
     "key" : "MA",
     "name" : "Maranhão",
-    "latitude" : -2.53874,
-    "longitude" : -44.2825
+    "latitude" : -2.5404,
+    "longitude" : -44.2894
   },
   {
-    "key" : "SP",
+    "key" : "X3",
     "name" : "São Paulo",
     "latitude" : -23.5329,
     "longitude" : -46.6395
