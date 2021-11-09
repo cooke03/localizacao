@@ -13,49 +13,49 @@
   },
   {
     "key" : "MG",
-    "name" : "Unidade Minas Gerais",
+    "name" : "Unidade Regional de Minas Gerais",
     "latitude" : -19.9213,
     "longitude" : -43.9590
   },
   {
     "key" : "PE",
-    "name" : "Unidade Pernambuco",
+    "name" : "Unidade Regional de Pernambuco",
     "latitude" : -8.0535,
     "longitude" : -34.8767
   },
   {
     "key" : "SP",
-    "name" : "Unidade São Paulo",
+    "name" : "Unidade Regional de São Paulo",
     "latitude" : -23.5714,
     "longitude" : -46.6455
   },
   {
     "key" : "RJ",
-    "name" : "Unidade Rio de Janeiro",
+    "name" : "Unidade Regional do Rio de Janeiro",
     "latitude" : -22.9097,
     "longitude" : -43.1690
   },
   {
     "key" : "RS",
-    "name" : "Unidade Rio Grande do Sul",
+    "name" : "Unidade Regional do Rio Grande do Sul",
     "latitude" : -30.0453,
     "longitude" : -51.1991
   },
   {
     "key" : "CE",
-    "name" : "Unidade Ceará",
+    "name" : "Unidade Regional de Ceará",
     "latitude" : -3.8045,
     "longitude" : -38.5077
   },
   {
     "key" : "SC",
-    "name" : "Unidade Santa Catarina",
+    "name" : "Unidade Regional de Santa Catarina",
     "latitude" : -27.5879,
     "longitude" : -48.5871
   },
   {
     "key" : "MA",
-    "name" : "Unidade Maranhão",
+    "name" : "Unidade Regional do Maranhão",
     "latitude" : -2.5404,
     "longitude" : -44.2894
   },
