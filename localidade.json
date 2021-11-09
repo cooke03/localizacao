@@ -7,7 +7,7 @@
   },
   {
     "key" : "BA",
-    "name" : "Bahia",
+    "name" : "Unidade Regional da Bahia",
     "latitude" : -12.9505,
     "longitude" : -38.4267
   },
@@ -30,6 +30,36 @@
     "longitude" : -46.6455
   },
   {
+    "key" : "RJ",
+    "name" : "Rio de Janeiro",
+    "latitude" : -22.9097,
+    "longitude" : -43.1690
+  },
+  {
+    "key" : "RS",
+    "name" : "Rio Grande do Sul",
+    "latitude" : -30.0453,
+    "longitude" : -51.1991
+  },
+  {
+    "key" : "CE",
+    "name" : "Ceará",
+    "latitude" : -3.8045,
+    "longitude" : -38.5077
+  },
+  {
+    "key" : "SC",
+    "name" : "Santa Catarina",
+    "latitude" : -27.5879,
+    "longitude" : -48.5871
+  },
+  {
+    "key" : "MA",
+    "name" : "Maranhão",
+    "latitude" : -2.5404,
+    "longitude" : -44.2894
+  },
+  {
     "key" : "MS",
     "name" : "Mato Grosso do Sul",
     "latitude" : -20.4486,
@@ -46,18 +76,6 @@
     "name" : "Paraná",
     "latitude" : -25.4195,
     "longitude" : -49.2646
-  },
-  {
-    "key" : "SC",
-    "name" : "Santa Catarina",
-    "latitude" : -27.5879,
-    "longitude" : -48.5871
-  },
-  {
-    "key" : "CE",
-    "name" : "Ceará",
-    "latitude" : -3.8045,
-    "longitude" : -38.5077
   },
   {
     "key" : "GO",
@@ -102,12 +120,6 @@
     "longitude" : -48.3558
   },
   {
-    "key" : "RS",
-    "name" : "Rio Grande do Sul",
-    "latitude" : -30.0453,
-    "longitude" : -51.1991
-  },
-  {
     "key" : "RO",
     "name" : "Rondônia",
     "latitude" : -8.76077,
@@ -126,22 +138,10 @@
     "longitude" : -67.8243
   },
   {
-    "key" : "RJ",
-    "name" : "Rio de Janeiro",
-    "latitude" : -22.9097,
-    "longitude" : -43.1690
-  },
-  {
     "key" : "X1",
     "name" : "Bahia",
     "latitude" : -12.9718,
     "longitude" : -38.5011
-  },
-  {
-    "key" : "MA",
-    "name" : "Maranhão",
-    "latitude" : -2.5404,
-    "longitude" : -44.2894
   },
   {
     "key" : "X3",
