@@ -61,104 +61,110 @@
   },
   {
     "key" : "RBO",
-    "name" : "Posto Rio Branco",
+    "name" : "Posto de Rio Branco",
     "latitude" : -10.0151,
     "longitude" : -67.8041
   },
   {
-    "key" : "MT",
-    "name" : "Mato Grosso",
-    "latitude" : -15.601,
-    "longitude" : -56.0974
+    "key" : "MCO",
+    "name" : "Posto de Maceio",
+    "latitude" : -9.6459,
+    "longitude" : -35.7258
   },
   {
-    "key" : "PR",
-    "name" : "Paraná",
-    "latitude" : -25.4195,
-    "longitude" : -49.2646
+    "key" : "MNS",
+    "name" : "Posto de Manaus",
+    "latitude" : -3.074,
+    "longitude" : -60.7258
   },
   {
-    "key" : "GO",
-    "name" : "Goiás",
-    "latitude" : -16.6864,
-    "longitude" : -49.2643
+    "key" : "SVR",
+    "name" : "Posto de Salvador",
+    "latitude" : -12.97787,
+    "longitude" : -38.4658
   },
   {
-    "key" : "PB",
-    "name" : "Paraíba",
-    "latitude" : -7.11509,
-    "longitude" : -34.8641
+    "key" : "TXF",
+    "name" : "Posto de Teixeira de Freitas",
+    "latitude" : -17.5502,
+    "longitude" : -39.7310
   },
   {
-    "key" : "AP",
-    "name" : "Amapá",
-    "latitude" : 0.034934,
-    "longitude" : -51.0694
+    "key" : "FTM",
+    "name" : "Posto de Fortaleza Mezanino",
+    "latitude" : -3.7577,
+    "longitude" : -38.5307
   },
   {
-    "key" : "AL",
-    "name" : "Alagoas",
-    "latitude" : -9.66599,
-    "longitude" : -35.735
+    "key" : "FTZ",
+    "name" : "Posto de Fortaleza",
+    "latitude" : -3.7577,
+    "longitude" : -38.5307
   },
   {
-    "key" : "AM",
-    "name" : "Amazonas",
-    "latitude" : -3.11866,
-    "longitude" : -60.0212
+    "key" : "Posto de Juazeiro",
+    "name" : "JZR",
+    "latitude" : -7.2266,
+    "longitude" : -39.322
   },
   {
-    "key" : "RN",
-    "name" : "Rio Grande do Norte",
-    "latitude" : -5.79357,
-    "longitude" : -35.1986
+    "key" : "RID",
+    "name" : "Rodoviária Interestadual",
+    "latitude" : -15.8302,
+    "longitude" : -47.9498
   },
   {
-    "key" : "TO",
-    "name" : "Tocantins",
-    "latitude" : -10.24,
-    "longitude" : -48.3558
+    "key" : "RTG",
+    "name" : "Rodoviária Touring",
+    "latitude" : -15.79368,
+    "longitude" : -47.88241
   },
   {
-    "key" : "RO",
-    "name" : "Rondônia",
-    "latitude" : -8.76077,
-    "longitude" : -63.8999
+    "key" : "VTR",
+    "name" : "Posto de Vitória",
+    "latitude" : -20.3218,
+    "longitude" : -40.3514
   },
   {
-    "key" : "X2",
-    "name" : "Pernambuco",
-    "latitude" : -8.04666,
-    "longitude" : -34.8771
+    "key" : "SRR",
+    "name" : "Posto de Serra",
+    "latitude" : -20.2879,
+    "longitude" : -40.3037
   },
   {
-    "key" : "AC",
-    "name" : "Acre",
-    "latitude" : -9.97499,
-    "longitude" : -67.8243
+    "key" : "GON",
+    "name" : "Posto de Goiânia",
+    "latitude" : -16.6591,
+    "longitude" : -49.2595
   },
   {
-    "key" : "X1",
-    "name" : "Bahia",
-    "latitude" : -12.9718,
-    "longitude" : -38.5011
+    "key" : "IMP",
+    "name" : "Posto de Imperatriz",
+    "latitude" : -5.5037,
+    "longitude" : -47.4688
   },
   {
-    "key" : "X3",
-    "name" : "São Paulo",
-    "latitude" : -23.5329,
-    "longitude" : -46.6395
+    "key" : "SLS",
+    "name" : "Posto de São Luis",
+    "latitude" : -2.5636,
+    "longitude" : -44.2449
   },
   {
-    "key" : "PI",
-    "name" : "Piauí",
-    "latitude" : -5.09194,
-    "longitude" : -42.8034
+    "key" : "PRT",
+    "name" : "Posto de Peritoró",
+    "latitude" : -4.3727,
+    "longitude" : -44.3387
   },
   {
-    "key" : "ES",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "key" : "BLH",
+    "name" : "Posto de Belo Horizonte",
+    "latitude" : -19.9139,
+    "longitude" : -43.9418
+  },
+  {
+    "key" : "JZF",
+    "name" : "Posto de Juiz de Fora",
+    "latitude" : -21.7386,
+    "longitude" : -43.3752
   }
 ]
