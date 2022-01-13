@@ -61,506 +61,164 @@
   },
   {
     "key" : "RBO",
-    "name" : "PFA - Posto de Rio Branco",
-    "latitude" : -10.015174745524849,
-    "longitude" : -67.80412912346658
+    "name" : "Posto de Rio Branco",
+    "latitude" : -10.0151,
+    "longitude" : -67.8041
   },
   {
     "key" : "MCO",
-    "name" : "PFA - Posto de Maceio",
-    "latitude" : -9.645997490534228,
-    "longitude" : -35.72583998618636
+    "name" : "Posto de Maceio",
+    "latitude" : -9.6459,
+    "longitude" : -35.7258
   },
   {
     "key" : "MNS",
-    "name" : "PFA - Posto de Manaus",
-    "latitude" : -3.0744774339545806,
-    "longitude" : -60.02546989674638
+    "name" : "Posto de Manaus",
+    "latitude" : -3.074,
+    "longitude" : -60.7258
   },
   {
     "key" : "SVR",
-    "name" : "PFA - Posto de Salvador",
-    "latitude" : -12.977874176323684,
-    "longitude" : -38.46589067346897
+    "name" : "Posto de Salvador",
+    "latitude" : -12.97787,
+    "longitude" : -38.4658
   },
   {
     "key" : "TXF",
-    "name" : "PFA - Posto de Teixeira de Freitas",
-    "latitude" : -17.550265005852008,
-    "longitude" : -39.731013271241935
+    "name" : "Posto de Teixeira de Freitas",
+    "latitude" : -17.5502,
+    "longitude" : -39.7310
   },
   {
     "key" : "FTM",
-    "name" : "PFA - Posto de Fortaleza Mezanino",
-    "latitude" : -3.757751556543791,
-    "longitude" : -38.5307390262953
+    "name" : "Posto de Fortaleza Mezanino",
+    "latitude" : -3.7577,
+    "longitude" : -38.5307
   },
   {
     "key" : "FTZ",
-    "name" : "PFA - Posto de Fortaleza",
-    "latitude" : -3.757751556543791,
-    "longitude" : -38.5307390262953
+    "name" : "Posto de Fortaleza",
+    "latitude" : -3.7577,
+    "longitude" : -38.5307
   },
   {
-    "key" : "JZR",
-    "name" : "PFA - Posto de Juazeiro",
-    "latitude" : -7.226697571811404,
-    "longitude" : -39.32254405411497
+    "key" : "Posto de Juazeiro",
+    "name" : "JZR",
+    "latitude" : -7.2266,
+    "longitude" : -39.322
   },
   {
     "key" : "RID",
-    "name" : "PFA - Rodoviária Interestadual",
-    "latitude" : -15.830270506223313,
-    "longitude" : -47.9498565207176
+    "name" : "Rodoviária Interestadual",
+    "latitude" : -15.8302,
+    "longitude" : -47.9498
   },
   {
     "key" : "RTG",
-    "name" : "PFA - Rodoviária Touring",
-    "latitude" : -15.793681674282928,
-    "longitude" : -47.882410036852036
+    "name" : "Rodoviária Touring",
+    "latitude" : -15.79368,
+    "longitude" : -47.88241
   },
   {
     "key" : "VTR",
-    "name" : "PFA - Posto de Vitória",
-    "latitude" : -20.321868193960405,
-    "longitude" : -40.35149322629471
+    "name" : "Posto de Vitória",
+    "latitude" : -20.3218,
+    "longitude" : -40.3514
   },
   {
     "key" : "SRR",
-    "name" : "PFA - Posto de Serra",
-    "latitude" : -20.28795961801798,
-    "longitude" : -40.30379495831343
+    "name" : "Posto de Serra",
+    "latitude" : -20.2879,
+    "longitude" : -40.3037
   },
   {
     "key" : "GON",
-    "name" : "PFA - Posto de Goiânia",
-    "latitude" : -16.65916514609816,
-    "longitude" : -49.259591191466626
+    "name" : "Posto de Goiânia",
+    "latitude" : -16.6591,
+    "longitude" : -49.2595
   },
   {
     "key" : "IMP",
-    "name" : "PFA - Posto de Imperatriz",
-    "latitude" : -5.503727977353841,
-    "longitude" : -47.46880035504502
+    "name" : "Posto de Imperatriz",
+    "latitude" : -5.5037,
+    "longitude" : -47.4688
   },
   {
     "key" : "SLS",
-    "name" : "PFA - Posto de São Luis",
-    "latitude" : -2.563692491790216,
-    "longitude" : -44.24492322484511
+    "name" : "Posto de São Luis",
+    "latitude" : -2.5636,
+    "longitude" : -44.2449
   },
   {
     "key" : "PRT",
-    "name" : "PFA - Posto de Peritoró",
-    "latitude" : -4.372731722203502,
-    "longitude" : -44.33878478454969
+    "name" : "Posto de Peritoró",
+    "latitude" : -4.3727,
+    "longitude" : -44.3387
   },
   {
     "key" : "BLH",
-    "name" : "PFA - Posto de Belo Horizonte",
-    "latitude" : -19.913927417266695,
-    "longitude" : -43.941864200127746
+    "name" : "Posto de Belo Horizonte",
+    "latitude" : -19.9139,
+    "longitude" : -43.9418
   },
   {
     "key" : "JZF",
-    "name" : "PFA - Posto de Juiz de Fora",
-    "latitude" : -21.738623981926686,
-    "longitude" : -43.37520871465972
+    "name" : "Posto de Juiz de Fora",
+    "latitude" : -21.7386,
+    "longitude" : -43.3752
   },
   {
     "key" : "UBL",
-    "name" : "PFA - Posto de Uberlândia",
-    "latitude" : -18.905289844890753,
-    "longitude" : -48.28513583908254
+    "name" : "Posto de Uberlândia",
+    "latitude" : -18.9052,
+    "longitude" : -48.2851
   },
   {
     "key" : "UBR",
-    "name" : "PFA - Posto de Uberaba",
-    "latitude" : -19.76291388438198,
-    "longitude" : -47.945432283924234
+    "name" : "Posto de Uberaba",
+    "latitude" : -19.7629,
+    "longitude" : -47.945
   },
   {
     "key" : "MTC",
-    "name" : "PFA - Posto de Montes Claros ",
-    "latitude" : -16.74283297379048,
-    "longitude" : -43.868369778027336
+    "name" : "Posto de Montes Claros ",
+    "latitude" : -16.7428,
+    "longitude" : -43.8683
   },
   {
     "key" : "GVR",
-    "name" : "PFA - Posto de Governador Valadares",
-    "latitude" : -18.859027644039948,
-    "longitude" : -41.94620072961812
+    "name" : "Posto de Governador Valadares",
+    "latitude" : -18.8590,
+    "longitude" : -41.9462
   },
   {
     "key" : "PAG",
-    "name" : "PFA - Posto de Pouso Alegre",
-    "latitude" : -22.24272457385051,
-    "longitude" : -45.88176840481176
+    "name" : "Posto de Pouso Alegre",
+    "latitude" : -22.2427,
+    "longitude" : -45.8817
   },
   {
     "key" : "CPG",
-    "name" : "PFA - Posto de Campo Grande",
-    "latitude" : -20.51357195973008,
-    "longitude" : -54.60109513484254
+    "name" : "Posto de Campo Grande",
+    "latitude" : -20.5135,
+    "longitude" : -54.6010
   },
   {
-    "key" : "CUB",
-    "name" : "PFA - Posto de Cuiabá",
-    "latitude" : -15.580612268157378,
-    "longitude" : -56.08977453836213
+    "key" : "--",
+    "name" : "Posto de Juiz de Fora",
+    "latitude" : -21.7386,
+    "longitude" : -43.3752
   },
   {
-    "key" : "BLM",
-    "name" : "PFA - Posto de Belém",
-    "latitude" : -1.4489717412229421,
-    "longitude" : -48.46581190082118
+    "key" : "--",
+    "name" : "Posto de Juiz de Fora",
+    "latitude" : -21.7386,
+    "longitude" : -43.3752
   },
   {
-    "key" : "MRB",
-    "name" : "PFA - Posto de Marabá",
-    "latitude" : -5.348968855975752,
-    "longitude" : -49.10240813160409
-  },
-  {
-    "key" : "JPS",
-    "name" : "PFA - Posto de João Pessoa",
-    "latitude" : -7.118459505494689,
-    "longitude" : -34.89107186371819
-  },
-  {
-    "key" : "CPG",
-    "name" : "PFA - Posto de Campina Grande",
-    "latitude" : -7.238762632535384,
-    "longitude" : -35.87122219307445
-  },
-  {
-    "key" : "RCF",
-    "name" : "PFA - Posto de Recife",
-    "latitude" : -8.063633544372344,
-    "longitude" : -34.98180960921785
-  },
-  {
-    "key" : "SLG",
-    "name" : "PFA - Posto de Salgueiro",
-    "latitude" : -8.079467035066761,
-    "longitude" : -39.13056846913825
-  },
-  {
-    "key" : "CRR",
-    "name" : "PFA - Posto de Caruaru",
-    "latitude" : -8.29450539789171,
-    "longitude" : -35.98816794671099
-  },
-  {
-    "key" : "PTR",
-    "name" : "PFA - Petrolina",
-    "latitude" : -9.392132429091069,
-    "longitude" : -40.508961533626845
-  },
-  {
-    "key" : "PRB",
-    "name" : "PFA - Posto de Parnaiba",
-    "latitude" : -2.9281386229386253,
-    "longitude" : -41.75330829781604
-  },
-  {
-    "key" : "TRS",
-    "name" : "PFA - Posto de Teresina ",
-    "latitude" : -5.119133036287063,
-    "longitude" : -42.78472242103387
-  },
-  {
-    "key" : "CTB",
-    "name" : "PFA - Posto de Curitiba",
-    "latitude" : -25.436950398231005,
-    "longitude" : -49.25723907908242
-  },
-  {
-    "key" : "LDR",
-    "name" : "PFA - Posto de Londrina",
-    "latitude" : -23.309019653090463,
-    "longitude" : -51.1503530153223
-  },
-  {
-    "key" : "CSV",
-    "name" : "PFA - Posto de Cascavel",
-    "latitude" : -24.95710384817893,
-    "longitude" : -53.48001610209173
-  },
-  {
-    "key" : "FGC",
-    "name" : "PFA - Posto de Foz do Iguaçu ",
-    "latitude" : -25.52077738632242,
-    "longitude" : -54.56360603939039
-  },
-  {
-    "key" : "PDA",
-    "name" : "PFR - Posto da Ponte da Amizade",
-    "latitude" : -25.50993443559914,
-    "longitude" : -54.596638069393094
-  },
-  {
-    "key" : "MRG",
-    "name" : "PFA - Posto de Maringá",
-    "latitude" : -23.425886590362698,
-    "longitude" : -51.91032305425033
-  },
-  {
-    "key" : "JDP",
-    "name" : "PFA - Posto São José dos Pinhais - DNIT",
-    "latitude" : -25.429064707095524,
-    "longitude" : -49.228385049963656
-  },
-  {
-    "key" : "PRQ",
-    "name" : "PFR - Posto de Piraquara ",
-    "latitude" : -25.49254947620334,
-    "longitude" : -49.11448396950959
-  },
-  {
-    "key" : "PDM",
-    "name" : "PFR - Posto de Parada Modelo",
-    "latitude" : -22.539918951836025,
-    "longitude" : -42.987022278761046
-  },
-  {
-    "key" : "SRP",
-    "name" : "PFA - Posto de Seropédica",
-    "latitude" : -22.71539754783709,
-    "longitude" : -43.726361032748436
-  },
-  {
-    "key" : "RJN",
-    "name" : "PFA - Posto de Rio de Janeiro - Novo Rio",
-    "latitude" : -22.89916282604436,
-    "longitude" : -43.20908113377946
-  },
-  {
-    "key" : "CDG",
-    "name" : "PFA - Posto de Campos dos Goytacazes",
-    "latitude" : -21.76755407335127,
-    "longitude" : -41.35056969385242
-  },
-  {
-    "key" : "PTP",
-    "name" : "PFA - Posto de Petropolis",
-    "latitude" : -22.516308731046877,
-    "longitude" : -43.22909001479364
-  },
-  {
-    "key" : "BRM",
-    "name" : "PFA - Posto de Barra Mansa",
-    "latitude" : -22.5455665640538,
-    "longitude" : -44.16867452857453
-  },
-  {
-    "key" : "NTR",
-    "name" : "PFA - Posto de Niterói",
-    "latitude" : -22.885323564712923,
-    "longitude" : -43.121800499744076
-  },
-  {
-    "key" : "ADR",
-    "name" : "PFA - Posto de Angra dos Reis",
-    "latitude" : -23.00289677827071,
-    "longitude" : -44.30405298017258
-  },
-  {
-    "key" : "PDS",
-    "name" : "PPV - Posto Paraíba do Sul",
-    "latitude" : -22.20726644505438,
-    "longitude" : -43.379122735244316
-  },
-  {
-    "key" : "BFR",
-    "name" : "PPV - Posto Balança Fixa de Resende",
-    "latitude" : -22.45657859944026,
-    "longitude" : -44.41050111613949
-  },
-  {
-    "key" : "BFP",
-    "name" : "PPV - Posto Balança Fixa de Paracambi",
-    "latitude" : -22.688020183373432,
-    "longitude" : -43.80638046573021
-  },
-  {
-    "key" : "VRD",
-    "name" : "PFA - Posto de Volta Redonda",
-    "latitude" : -22.584544001958704,
-    "longitude" : -44.00409569587073
-  },
-  {
-    "key" : "CSA",
-    "name" : "PFR - Posto de Casemiro de Abreu",
-    "latitude" : -22.476647735310106,
-    "longitude" : -42.08891944500915
-  },
-  {
-    "key" : "ARL",
-    "name" : "PFR - Posto de Areal",
-    "latitude" : -22.282499668862528,
-    "longitude" : -43.11933295042267
-  },
-  {
-    "key" : "NTL",
-    "name" : "PFA - Posto de Natal",
-    "latitude" : -5.819547762436918,
-    "longitude" : -35.2352199730727
-  },
-  {
-    "key" : "PTV",
-    "name" : "PFA - Posto de Porto Velho",
-    "latitude" : -8.758230530159782,
-    "longitude" : -63.88538466289743
-  },
-  {
-    "key" : "BVT",
-    "name" : "PFA - Posto de Boa Vista ",
-    "latitude" : 2.8045586598204304,
-    "longitude" : -60.68850541440196
-  },
-  {
-    "key" : "PLT",
-    "name" : "PFA - Posto de Pelotas ",
-    "latitude" : -31.758140519755056,
-    "longitude" : -52.37024297986727
-  },
-  {
-    "key" : "PTA",
-    "name" : "PFA - Posto de Porto Alegre ",
-    "latitude" : -30.023038560523126,
-    "longitude" : -51.219258991480565
-  },
-  {
-    "key" : "PLT",
-    "name" : "PPV - Posto de Pelotas ",
-    "latitude" : -31.891079742177645,
-    "longitude" : -52.31977156060731
-  },
-  {
-    "key" : "LGS",
-    "name" : "PFA - Posto Lages",
-    "latitude" : -27.82097812516788,
-    "longitude" : -50.315281898141336
-  },
-  {
-    "key" : "JNV",
-    "name" : "PFA - Posto de Joinville",
-    "latitude" : -26.31505462383729,
-    "longitude" : -48.85744950788347
-  },
-  {
-    "key" : "CBI",
-    "name" : "PFA - Posto de Camboriú",
-    "latitude" : -26.994266644566284,
-    "longitude" : -48.647540514558884
-  },
-  {
-    "key" : "CPC",
-    "name" : "PFA - Posto de Chapecó",
-    "latitude" : -27.088002910811323,
-    "longitude" : -52.61317149661847
-  },
-  {
-    "key" : "FLP",
-    "name" : "PFA - Posto de Florianópolis",
-    "latitude" : -27.597300738915855,
-    "longitude" : -49.10240813160409
-  },
-  {
-    "key" : "ITP",
-    "name" : "PFR - Posto de Itapema",
-    "latitude" : -27.1279883072159,
-    "longitude" : -48.61002500894985
-  },
-  {
-    "key" : "ARC",
-    "name" : "PFA - Posto de Aracajú",
-    "latitude" : -10.916653795523029,
-    "longitude" : -37.08859105493062
-  },
-  {
-    "key" : "TET",
-    "name" : "PFA - Posto de Tietê ",
-    "latitude" : -23.516246084699247,
-    "longitude" : -46.62472475988606
-  },
-  {
-    "key" : "BRF",
-    "name" : "PFA - Posto de Barra Funda",
-    "latitude" : -23.52447348346854,
-    "longitude" : -46.667348294054364
-  },
-  {
-    "key" : "CPN",
-    "name" : "PFA - Posto de Campinas",
-    "latitude" : -22.905922181710675,
-    "longitude" : -47.07258169196686
-  },
-  {
-    "key" : "RGS",
-    "name" : "PFR - Posto de Registro ",
-    "latitude" : -24.505259644571986,
-    "longitude" : -47.84843788021994
-  },
-  {
-    "key" : "ORS",
-    "name" : "PFA - Posto de Ourinhos",
-    "latitude" : -22.967316862361347,
-    "longitude" : -49.8666152112252
-  },
-  {
-    "key" : "PSP",
-    "name" : "PFA - Posto de Presidente Prudente",
-    "latitude" : -22.130982140200427,
-    "longitude" : -51.38761849315553
-  },
-  {
-    "key" : "RBP",
-    "name" : "PFA - Posto de Ribeirão Preto",
-    "latitude" : -21.17402037346065,
-    "longitude" : -47.814580944351825
-  },
-  {
-    "key" : "RSR",
-    "name" : "PFR - Posto de Roseira ",
-    "latitude" : -22.892101436801557,
-    "longitude" : -45.28878920740758
-  },
-  {
-    "key" : "SJR",
-    "name" : "PFA - Posto de São José do Rio Preto",
-    "latitude" : -20.808940504471856,
-    "longitude" : -49.37742224357725
-  },
-  {
-    "key" : "SJC",
-    "name" : "PFA - Posto de São José dos Campos",
-    "latitude" : -23.193569001529887,
-    "longitude" : -45.87825950065012
-  ,
-  {
-    "key" : "LNS",
-    "name" : "PFA - Posto de Lins",
-    "latitude" : -21.71204340784901,
-    "longitude" : -49.80897789313147
-  },
-  {
-    "key" : "QLZ",
-    "name" : "PFR - Posto de Queluz",
-    "latitude" : -22.518019883729778,
-    "longitude" : -44.706507423841785
-  },
-  {
-    "key" : "GRM",
-    "name" : "PPV - Posto de Guararema",
-    "latitude" : -23.33231244115541,
-    "longitude" : -46.13844696264435
-  },
-  {
-    "key" : "PLM",
-    "name" : "PFA - Posto de Palmas",
-    "latitude" : -10.256735620678398,
-    "longitude" : -48.312877700429425
+    "key" : "--",
+    "name" : "Posto de Juiz de Fora",
+    "latitude" : -21.7386,
+    "longitude" : -43.3752
   }
 ]
