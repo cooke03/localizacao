@@ -78,46 +78,46 @@
     "longitude" : -60.02546989674638
   },
   {
-    "key" : "SVR",
+    "key" : "SDR",
     "name" : "Posto de Salvador",
     "latitude" : -12.977874176323684,
     "longitude" : -38.46589067346897
   },
   {
-    "key" : "TXF",
+    "key" : "TAF",
     "name" : "Posto de Teixeira de Freitas",
-    "latitude" : -17.5502,
-    "longitude" : -39.7310
+    "latitude" : -17.550265005852008,
+    "longitude" : -39.731013271241935
   },
   {
-    "key" : "FTM",
+    "key" : "FLM",
     "name" : "Posto de Fortaleza Mezanino",
-    "latitude" : -3.7577,
-    "longitude" : -38.5307
+    "latitude" : -3.757751556543791,
+    "longitude" : -38.5307390262953
   },
   {
-    "key" : "FTZ",
+    "key" : "FLA",
     "name" : "Posto de Fortaleza",
-    "latitude" : -3.7577,
-    "longitude" : -38.5307
+    "latitude" : -3.757751556543791,
+    "longitude" : -38.5307390262953
   },
   {
     "key" : "Posto de Juazeiro",
-    "name" : "JZR",
-    "latitude" : -7.2266,
-    "longitude" : -39.322
+    "name" : "JNE",
+    "latitude" : -7.226697571811404,
+    "longitude" : -39.32254405411497
   },
   {
-    "key" : "RID",
+    "key" : "BSA",
     "name" : "Rodoviária Interestadual",
-    "latitude" : -15.8302,
-    "longitude" : -47.9498
+    "latitude" : -15.830270506223313,
+    "longitude" : -47.9498565207176
   },
   {
-    "key" : "RTG",
+    "key" : "BST",
     "name" : "Rodoviária Touring",
-    "latitude" : -15.79368,
-    "longitude" : -47.88241
+    "latitude" : -15.793681674282928,
+    "longitude" : -47.8824100368520
   },
   {
     "key" : "VTR",
