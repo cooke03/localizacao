@@ -146,61 +146,61 @@
   {
     "key" : "SLS",
     "name" : "Posto de São Luis",
-    "latitude" : -2.5636,
-    "longitude" : -44.2449
+    "latitude" : -2.563692491790216,
+    "longitude" : -44.24492322484511
   },
   {
-    "key" : "PRT",
+    "key" : "PERI",
     "name" : "Posto de Peritoró",
-    "latitude" : -4.3727,
-    "longitude" : -44.3387
+    "latitude" : -4.372731722203502,
+    "longitude" : -44.33878478454969
   },
   {
-    "key" : "BLH",
+    "key" : "BHE",
     "name" : "Posto de Belo Horizonte",
-    "latitude" : -19.9139,
-    "longitude" : -43.9418
+    "latitude" : -19.913927417266695,
+    "longitude" : -43.941864200127746
   },
   {
-    "key" : "JZF",
+    "key" : "JFA",
     "name" : "Posto de Juiz de Fora",
-    "latitude" : -21.7386,
-    "longitude" : -43.3752
+    "latitude" : -21.738623981926686,
+    "longitude" : -43.37520871465972
   },
   {
-    "key" : "UBL",
+    "key" : "ULA",
     "name" : "Posto de Uberlândia",
-    "latitude" : -18.9052,
-    "longitude" : -48.2851
+    "latitude" : -18.905289844890753,
+    "longitude" : -48.28513583908254
   },
   {
-    "key" : "UBR",
+    "key" : "URA",
     "name" : "Posto de Uberaba",
-    "latitude" : -19.7629,
-    "longitude" : -47.945
+    "latitude" : -19.76291388438198,
+    "longitude" : -47.945432283924234
   },
   {
-    "key" : "MTC",
+    "key" : "MCL",
     "name" : "Posto de Montes Claros ",
-    "latitude" : -16.7428,
-    "longitude" : -43.8683
+    "latitude" : -16.74283297379048,
+    "longitude" : -43.868369778027336
   },
   {
-    "key" : "GVR",
+    "key" : "GVS",
     "name" : "Posto de Governador Valadares",
-    "latitude" : -18.8590,
-    "longitude" : -41.9462
+    "latitude" : -18.859027644039948,
+    "longitude" : -41.94620072961812
   },
   {
-    "key" : "PAG",
+    "key" : "PSA",
     "name" : "Posto de Pouso Alegre",
-    "latitude" : -22.2427,
-    "longitude" : -45.8817
+    "latitude" : -22.24272457385051,
+    "longitude" : -45.88176840481176
   },
   {
-    "key" : "CPG",
+    "key" : "CPE",
     "name" : "Posto de Campo Grande",
-    "latitude" : -20.5135,
-    "longitude" : -54.6010
+    "latitude" : -20.51357195973008,
+    "longitude" : -54.60109513484254
   }
 ]
