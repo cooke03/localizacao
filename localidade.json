@@ -202,5 +202,11 @@
     "name" : "Posto de Campo Grande",
     "latitude" : -20.51357195973008,
     "longitude" : -54.60109513484254
+  },
+  {
+    "key" : "CBA",
+    "name" : "Posto de Cuiaba",
+    "latitude" : -15.580612268157378,
+    "longitude" : -56.08977453836213
   }
 ]
