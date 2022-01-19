@@ -102,8 +102,8 @@
     "longitude" : -38.5397990262955
   },
   {
-    "key" : "Posto de Juazeiro",
-    "name" : "JNE",
+    "key" : "JNE",
+    "name" : "Posto de Juazeiro",
     "latitude" : -7.226697571811404,
     "longitude" : -39.32254405411497
   },
@@ -120,28 +120,28 @@
     "longitude" : -47.8824100368520
   },
   {
-    "key" : "VTR",
+    "key" : "VTA",
     "name" : "Posto de Vitória",
-    "latitude" : -20.3218,
-    "longitude" : -40.3514
+    "latitude" : -20.321868193960405,
+    "longitude" : -40.35149322629471
   },
   {
     "key" : "SRR",
     "name" : "Posto de Serra",
-    "latitude" : -20.2879,
-    "longitude" : -40.3037
+    "latitude" : -20.28795961801798,
+    "longitude" : -40.30379495831343
   },
   {
-    "key" : "GON",
+    "key" : "GNA",
     "name" : "Posto de Goiânia",
-    "latitude" : -16.6591,
-    "longitude" : -49.2595
+    "latitude" : -16.65916514609816,
+    "longitude" : -49.259591191466626
   },
   {
-    "key" : "IMP",
+    "key" : "ITZ",
     "name" : "Posto de Imperatriz",
-    "latitude" : -5.5037,
-    "longitude" : -47.4688
+    "latitude" : -5.503727977353841,
+    "longitude" : -47.46880035504502
   },
   {
     "key" : "SLS",
