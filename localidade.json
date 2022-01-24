@@ -454,5 +454,95 @@
     "name" : "Posto de Fazenda Rio Grande",
     "latitude" : -1.11,
     "longitude" : -1.11
+  },
+  {
+    "key" : "XXX",
+    "name" : "Posto de Pelotas Capao",
+    "latitude" : -1.11,
+    "longitude" : -1.11
+  },
+  {
+    "key" : "XXX",
+    "name" : "Posto de Fazenda Rio Grande",
+    "latitude" : -1.11,
+    "longitude" : -1.11
+  },
+  {
+    "key" : "LGS",
+    "name" : "Posto de Lages",
+    "latitude" : -27.82097812516788,
+    "longitude" : -50.315281898141336
+  },
+  {
+    "key" : "JVE",
+    "name" : "Posto de Joinville",
+    "latitude" : -26.31505462383729,
+    "longitude" : -48.85744950788347
+  },
+  {
+    "key" : "CBR",
+    "name" : "Posto de Camboriu",
+    "latitude" : -26.994266644566284,
+    "longitude" : -48.647540514558884
+  },
+  {
+    "key" : "CPO",
+    "name" : "Posto de Chapeco",
+    "latitude" : -27.088002910811323,
+    "longitude" : -52.61317149661847
+  },
+  {
+    "key" : "FNS",
+    "name" : "Posto de Florianopolis",
+    "latitude" : -27.597300738915855,
+    "longitude" : -48.55769255503091
+  },
+  {
+    "key" : "IPA",
+    "name" : "Posto de Itapema",
+    "latitude" : -27.1279883072159,
+    "longitude" : -48.61002500894985
+  },
+  {
+    "key" : "AJU",
+    "name" : "Posto de Aracaju",
+    "latitude" : -10.916653795523029,
+    "longitude" : -37.08859105493062
+  },
+  {
+    "key" : "SPO",
+    "name" : "Posto de Sao Paulo (Tiete)",
+    "latitude" : -23.516246084699247,
+    "longitude" : -46.62472475988606
+  },
+  {
+    "key" : "CAS",
+    "name" : "Posto de Campinas",
+    "latitude" : -22.905922181710675,
+    "longitude" : -47.07258169196686
+  },
+  {
+    "key" : "RGT",
+    "name" : "Posto de Registro",
+    "latitude" : -24.505259644571986,
+    "longitude" : -47.84843788021994
+  },
+  {
+    "key" : "ORN",
+    "name" : "Posto de Ourinhos",
+    "latitude" : -22.967316862361347,
+    "longitude" : -49.8666152112252
+  },
+  {
+    "key" : "PPE",
+    "name" : "Posto de Presidente Prudente",
+    "latitude" : -22.130982140200427,
+    "longitude" : -51.38761849315553
+  },
+  {
+    "key" : "RPO",
+    "name" : "Posto de Ribeirao Preto",
+    "latitude" : -21.17402037346065,
+    "longitude" : -47.814580944351825
   }
 ]
