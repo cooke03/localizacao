@@ -108,7 +108,7 @@
     "longitude" : -39.32254405411497
   },
   {
-    "key" : "BSA",
+    "key" : "RDI",
     "name" : "Rodoviária Interestadual",
     "latitude" : -15.830270506223313,
     "longitude" : -47.9498565207176
@@ -126,7 +126,7 @@
     "longitude" : -40.35149322629471
   },
   {
-    "key" : "SRR",
+    "key" : "SRA",
     "name" : "Posto de Serra",
     "latitude" : -20.28795961801798,
     "longitude" : -40.30379495831343
@@ -198,7 +198,7 @@
     "longitude" : -45.88176840481176
   },
   {
-    "key" : "CPE",
+    "key" : "CPG",
     "name" : "Posto de Campo Grande",
     "latitude" : -20.51357195973008,
     "longitude" : -54.60109513484254
@@ -208,5 +208,29 @@
     "name" : "Posto de Cuiaba",
     "latitude" : -15.580612268157378,
     "longitude" : -56.08977453836213
+  },
+  {
+    "key" : "BLM",
+    "name" : "Posto de Belem do Para",
+    "latitude" : -1.4489717412229421,
+    "longitude" : -48.46581190082118
+  },
+  {
+    "key" : "MBA",
+    "name" : "Posto de Maraba",
+    "latitude" : -5.348968855975752,
+    "longitude" : -49.10240813160409
+  },
+  {
+    "key" : "JPA",
+    "name" : "Posto de Joao Pessoa",
+    "latitude" : -7.118459505494689,
+    "longitude" : -34.89107186371819
+  },
+  {
+    "key" : "CGE",
+    "name" : "Posto de Caruaru",
+    "latitude" : -8.29450539789171,
+    "longitude" : -35.98816794671099
   }
 ]
