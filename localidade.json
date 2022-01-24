@@ -544,5 +544,89 @@
     "name" : "Posto de Ribeirao Preto",
     "latitude" : -21.17402037346065,
     "longitude" : -47.814580944351825
+  },
+  {
+    "key" : "RSA",
+    "name" : "Posto de Roseira",
+    "latitude" : -22.892101436801557,
+    "longitude" : -45.28878920740758
+  },
+  {
+    "key" : "FAC",
+    "name" : "Posto de Franca",
+    "latitude" : -1.11,
+    "longitude" : -1.11
+  },
+  {
+    "key" : "SRR",
+    "name" : "Posto de Sao jose do Rio Preto",
+    "latitude" : -20.808940504471856,
+    "longitude" : -49.37742224357725
+  },
+  {
+    "key" : "SJC",
+    "name" : "Posto de Sao jose dos Campos",
+    "latitude" : -23.193569001529887,
+    "longitude" : -45.87825950065012
+  },
+  {
+    "key" : "LIS",
+    "name" : "Posto de Lins",
+    "latitude" : -21.71204340784901,
+    "longitude" : -49.80897789313147
+  },
+  {
+    "key" : "QUZ",
+    "name" : "Posto de Queluz",
+    "latitude" : -22.518019883729778,
+    "longitude" : -44.706507423841785
+  },
+  {
+    "key" : "GRM",
+    "name" : "Posto de Guararema",
+    "latitude" : -23.33231244115541,
+    "longitude" : -46.13844696264435
+  },
+  {
+    "key" : "PQA",
+    "name" : "Posto de Piraquara",
+    "latitude" : -25.49254947620334,
+    "longitude" : -49.11448396950959
+  },
+  {
+    "key" : "PLM",
+    "name" : "Posto de Palmas",
+    "latitude" : -10.256735620678398,
+    "longitude" : -48.312877700429425
+  },
+  {
+    "key" : "ICS",
+    "name" : "Posto de Itapecerica da Serra",
+    "latitude" : -1.11,
+    "longitude" : -1.11
+  },
+  {
+    "key" : "PSO",
+    "name" : "Posto de Porto Seco",
+    "latitude" : -1.11,
+    "longitude" : -1.11
+  },
+  {
+    "key" : "MIU",
+    "name" : "Posto de Miracatu",
+    "latitude" : -1.11,
+    "longitude" : -1.11
+  },
+  {
+    "key" : "CBU",
+    "name" : "Posto de Casemiro de Abreu",
+    "latitude" : -22.476647735310106,
+    "longitude" : -42.08891944500915
+  },
+  {
+    "key" : "RNO",
+    "name" : "Posto de Rio Negro",
+    "latitude" : -1.11,
+    "longitude" : -1.11
   }
 ]
