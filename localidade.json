@@ -198,6 +198,12 @@
     "longitude" : -45.88176840481176
   },
   {
+    "key" : "CPE",
+    "name" : "Posto de Campo Grande",
+    "latitude" : -20.51357195973008,
+    "longitude" : -54.60109513484254
+  },
+  {
     "key" : "CPG",
     "name" : "Posto de Campo Grande",
     "latitude" : -20.51357195973008,
@@ -229,8 +235,134 @@
   },
   {
     "key" : "CGE",
+    "name" : "Posto de Campina Grande",
+    "latitude" : -7.238762632535384,
+    "longitude" : -35.87122219307445
+  },
+  {
+    "key" : "RCE",
+    "name" : "Posto de Recife",
+    "latitude" : -8.063633544372344,
+    "longitude" : -34.98180960921785
+  },
+  {
+    "key" : "SGI",
+    "name" : "Posto de Salgueiro",
+    "latitude" : -8.079467035066761,
+    "longitude" : -39.13056846913825
+  },
+  {
+    "key" : "CGU",
     "name" : "Posto de Caruaru",
     "latitude" : -8.29450539789171,
     "longitude" : -35.98816794671099
+  },
+  {
+    "key" : "PTA",
+    "name" : "Posto de Petrolina",
+    "latitude" : -9.392132429091069,
+    "longitude" : -40.508961533626845
+  },
+  {
+    "key" : "PNA",
+    "name" : "Posto de Parnaiba",
+    "latitude" : -2.9281386229386253,
+    "longitude" : -41.75330829781604
+  },
+  {
+    "key" : "TSA",
+    "name" : "Posto de Teresina",
+    "latitude" : -5.119133036287063,
+    "longitude" : -42.78472242103387
+  },
+  {
+    "key" : "CTA",
+    "name" : "Posto de Curitiba",
+    "latitude" : -25.436950398231005,
+    "longitude" : -49.25723907908242
+  },
+  {
+    "key" : "SPO",
+    "name" : "Posto de Londrina",
+    "latitude" : -23.309019653090463,
+    "longitude" : -51.1503530153223
+  },
+  {
+    "key" : "CCV",
+    "name" : "Posto de Cascavel",
+    "latitude" : -23.309019653090463,
+    "longitude" : -51.1503530153223
+  },
+  {
+    "key" : "FDI",
+    "name" : "Posto de Foz do Iguaçu",
+    "latitude" : -25.52077738632242,
+    "longitude" : -54.56360603939039
+  },
+  {
+    "key" : "PDA",
+    "name" : "Posto da Ponte da Amizade",
+    "latitude" : -25.50993443559914,
+    "longitude" : -54.596638069393094
+  },
+  {
+    "key" : "PTN",
+    "name" : "Posto Ponte Tancredo Neves",
+    "latitude" : -1.11,
+    "longitude" : -1.11
+  },
+  {
+    "key" : "MRG",
+    "name" : "Posto de Maringa",
+    "latitude" : -23.425886590362698,
+    "longitude" : -51.91032305425033
+  },
+  {
+    "key" : "SGP",
+    "name" : "Posto de Sao Jose dos Pinhais (DNIT)",
+    "latitude" : -25.429064707095524,
+    "longitude" : -49.228385049963656
+  },
+  {
+    "key" : "AREL",
+    "name" : "Posto de Areal",
+    "latitude" : -22.282499668862528,
+    "longitude" : -43.11933295042267
+  },
+  {
+    "key" : "AREL",
+    "name" : "Posto de Areal",
+    "latitude" : -22.282499668862528,
+    "longitude" : -43.11933295042267
+  },
+  {
+    "key" : "GUPM",
+    "name" : "Posto de Parada Modelo",
+    "latitude" : -22.539918951836025,
+    "longitude" : -42.987022278761046
+  },
+  {
+    "key" : "SERP",
+    "name" : "Posto de Seropedica",
+    "latitude" : -22.71539754783709,
+    "longitude" : -43.726361032748436
+  },
+  {
+    "key" : "RSD",
+    "name" : "Balanca Fixa de Resende",
+    "latitude" : -22.45657859944026,
+    "longitude" : -44.41050111613949
+  },
+  {
+    "key" : "RJO",
+    "name" : "Posto de Rio de Janeiro (Novo Rio)",
+    "latitude" : -22.89916282604436,
+    "longitude" : -43.20908113377946
+  },
+  {
+    "key" : "CPS",
+    "name" : "Posto de Campos dos Goytacazes",
+    "latitude" : -21.76755407335127,
+    "longitude" : -41.35056969385242
   }
 ]
