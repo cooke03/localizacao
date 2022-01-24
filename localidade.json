@@ -552,14 +552,14 @@
     "longitude" : -45.28878920740758
   },
   {
-    "key" : "FAC",
+    "key" : "FACx",
     "name" : "Posto de Franca",
     "latitude" : -1.11,
     "longitude" : -1.11
   },
   {
     "key" : "SRR",
-    "name" : "Posto de Sao jose do Rio Preto",
+    "name" : "Posto de Sao Jose do Rio Preto",
     "latitude" : -20.808940504471856,
     "longitude" : -49.37742224357725
   },
@@ -600,19 +600,19 @@
     "longitude" : -48.312877700429425
   },
   {
-    "key" : "ICS",
+    "key" : "ICSx",
     "name" : "Posto de Itapecerica da Serra",
     "latitude" : -1.11,
     "longitude" : -1.11
   },
   {
-    "key" : "PSO",
+    "key" : "PSOx",
     "name" : "Posto de Porto Seco",
     "latitude" : -1.11,
     "longitude" : -1.11
   },
   {
-    "key" : "MIU",
+    "key" : "MIUx",
     "name" : "Posto de Miracatu",
     "latitude" : -1.11,
     "longitude" : -1.11
@@ -624,7 +624,7 @@
     "longitude" : -42.08891944500915
   },
   {
-    "key" : "RNO",
+    "key" : "RNOx",
     "name" : "Posto de Rio Negro",
     "latitude" : -1.11,
     "longitude" : -1.11
