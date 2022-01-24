@@ -430,29 +430,5 @@
     "name" : "Posto de Porto Velho",
     "latitude" : -8.758230530159782,
     "longitude" : -63.88538466289743
-  },
-  {
-    "key" : "BVA",
-    "name" : "Posto de Boa Vista",
-    "latitude" : 2.8045586598204304,
-    "longitude" : -60.68850541440196
-  },
-  {
-    "key" : "PLT",
-    "name" : "Posto de Pelotas",
-    "latitude" : -31.758140519755056,
-    "longitude" : -52.37024297986727
-  },
-  {
-    "key" : "PAE",
-    "name" : "Posto de Porto Alegre",
-    "latitude" : -30.023038560523126,
-    "longitude" : -51.219258991480565
-  },
-  {
-    "key" : "XXX",
-    "name" : "Posto de Fazenda Rio Grande",
-    "latitude" : -1.11,
-    "longitude" : -1.11
   }
 ]
